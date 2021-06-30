@@ -1,1 +1,1 @@
-module.exports = {  url : 'mongodb://suyash:'+encodeURIComponent("<pwd goes here if pwd contains pecial chars>")+'@cluster0-shard-00-00.17oj4.mongodb.net:27017,cluster0-shard-00-01.17oj4.mongodb.net:27017,cluster0-shard-00-02.17oj4.mongodb.net:27017/NODEEXPRESSMONGOCRUD?ssl=true&replicaSet=atlas-n1k766-shard-0&authSource=admin&retryWrites=true&w=majority'};
+module.exports = {  url : <URL goes here>};
